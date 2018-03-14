@@ -77,6 +77,14 @@ bitcoin-cliのgetchaintipsコマンドを使うと、現在のブロックチェ
 - nonceを書き換えながらSHA256ダブルハッシュを求め、ハッシュ値が目標値より小さくなれば成功
     - 当然、この数値が小さくなれば難易度が上がる
 
+#### difficultyの表現
+- ブロックヘッダのDifficultyTargetがマイニングの難易度の目標値になる
+- difficulty bits か bits と呼ばれる
+
+
+
+
+
 
 
 
