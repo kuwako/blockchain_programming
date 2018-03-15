@@ -81,6 +81,12 @@ bitcoin-cliのgetchaintipsコマンドを使うと、現在のブロックチェ
 - ブロックヘッダのDifficultyTargetがマイニングの難易度の目標値になる
 - difficulty bits か bits と呼ばれる
 
+#### マイニング難易度の決定法
+- 10分間隔でのマイニングを持続するためにはマイナーたちの計算能力に応じてdifficultyの調整が必要
+- 難易度調整は2016ブロックごと（2週間)に行われる
+    - retargeting
+
+### マイニング報酬
 
 
 
