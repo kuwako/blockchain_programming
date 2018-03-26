@@ -22,8 +22,7 @@ OpenAssetsProtocolはブロックチェーン城でビットコイン以外の�
     - アセットに関するメタ情報とアセットを紐づけるためのプロトコル
 
 ## Marker Output
-
-
+OpenAssetsProtocolのトランザクションには必ずMarketOutput(特殊なアウトプット)がある
 
 
 
